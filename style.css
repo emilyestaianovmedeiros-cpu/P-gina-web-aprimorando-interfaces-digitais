@@ -1,6 +1,7 @@
 
         /* Estilos Gerais */
         body {
+            max-width: 100vw;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background-color: #f4f7f6;
             color: #333333;
@@ -24,7 +25,6 @@
 
         /* Container Principal */
         .container {
-            max-width: 800px;
             margin: 30px auto;
             padding: 0 20px;
         }
