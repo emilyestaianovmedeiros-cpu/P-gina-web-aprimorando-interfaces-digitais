@@ -1,5 +1,4 @@
 :root {
-    /* Cores do modo claro */
     --cor-primaria: #2b4599;
     --cor-secundaria: #8de9a8;
     --cor-fundo: #e1e4e2;
@@ -7,7 +6,6 @@
     --cor-contraste: #f2faf4;
 }
 
-/* Cores do modo escuro */
 .tema-escuro {
     --cor-primaria: #8da9ff;
     --cor-secundaria: #4d7058;
