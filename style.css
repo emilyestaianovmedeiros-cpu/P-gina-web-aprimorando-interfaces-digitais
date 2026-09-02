@@ -117,3 +117,6 @@ a {
 a:hover {
     border-color: var(--cor-primaria);
 }
+.btn-tema-escuro{
+    position:fixed;
+}
